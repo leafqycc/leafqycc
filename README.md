@@ -1,7 +1,7 @@
 ## Hi👋 I am leafqycc, currently studying computer science and technology at Sichuan University
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1;">
+  <div>
     <h3>About me:</h3>
     <ul>
       <li>A boy who loves history and technology</li>
