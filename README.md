@@ -9,8 +9,8 @@
       <li>Want to be a full-stack developer</li>
     </ul>
     <img src="https://raw.githubusercontent.com/leafqycc/leafqycc/main/neuro-evil.gif" style="width:50%;">
-  </div>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=leafqycc&show_icons=true">
+  </div>
 </div>
 
 <!--
