@@ -5,9 +5,7 @@
 * I am currently working in Beijing
 * Want to be a full-stack developer
   
-<p align="center">
-  <img src="https://raw.githubusercontent.com/leafqycc/leafqycc/main/neuro-evil.gif" style="width:50%;">
-</p>
+<img src="https://raw.githubusercontent.com/leafqycc/leafqycc/main/neuro-evil.gif" style="width:50%;">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=leafqycc&show_icons=true">
 
