@@ -1,7 +1,6 @@
 ## Hi👋 I am leafqycc, currently studying computer science and technology at Sichuan University
 
 <div style="display: flex; justify-content: space-between;">
-  <div>
     <h3>About me:</h3>
     <ul>
       <li>A boy who loves history and technology</li>
@@ -13,7 +12,6 @@
   <div style="margin-left: auto;">
     <img src="https://github-readme-stats.vercel.app/api?username=leafqycc&show_icons=true">
   </div>
-</div>
 
 
 <!--
