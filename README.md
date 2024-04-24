@@ -10,7 +10,7 @@
     </ul>
     <img src="https://raw.githubusercontent.com/leafqycc/leafqycc/main/neuro-evil.gif" style="width:50%;">
   </div>
-  <div style="text-align: right;">
+  <div style="text-align: left;">
     <img src="https://github-readme-stats.vercel.app/api?username=leafqycc&show_icons=true">
   </div>
 </div>
