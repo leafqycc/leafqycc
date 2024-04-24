@@ -1,6 +1,6 @@
 ## Hi👋 I am leafqycc, currently studying computer science and technology at Sichuan University
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-between;">
   <div style="flex: 1;">
     <h3>About me:</h3>
     <ul>
@@ -10,7 +10,7 @@
     </ul>
     <img src="https://raw.githubusercontent.com/leafqycc/leafqycc/main/neuro-evil.gif" style="width:50%;">
   </div>
-  <div style="flex: 1;">
+  <div style="margin-left: auto;">
     <img src="https://github-readme-stats.vercel.app/api?username=leafqycc&show_icons=true">
   </div>
 </div>
