@@ -2,11 +2,12 @@
 
 ### About me: 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=leafqycc&show_icons=true">
+
 * A boy who loves history and technology
 * I am currently working in Beijing
 * Want to be a full-stack developer
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=leafqycc&show_icons=true">
 
 
 <!--
