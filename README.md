@@ -8,6 +8,10 @@
 * I am currently working in Beijing
 * Want to be a full-stack developer
 
+<br>
+<center>
+  <img src="https://raw.githubusercontent.com/leafqycc/leafqycc/main/neuro-evil.gif" style="width:100%;">
+</center>
 <!--
 **leafqycc/leafqycc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
