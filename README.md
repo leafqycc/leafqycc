@@ -7,7 +7,7 @@
 * A boy who loves history and technology
 * I am currently working in Beijing
 * Want to be a full-stack developer
-
+<img src="[https://github-readme-stats.vercel.app/api?username=leafqycc&show_icons=true](https://avatars.githubusercontent.com/u/88959476?v=4)">
 
 
 <!--
