@@ -8,15 +8,16 @@
         <li>I am currently working in Beijing</li>
         <li>Want to be a full-stack developer</li>
       </ul>
-      <center>
-      <img src="https://raw.githubusercontent.com/leafqycc/leafqycc/main/neuro-evil.gif" style="width:50%;">
     </div>
     <div style="text-align: right; width: 100%;">
       <img src="https://github-readme-stats.vercel.app/api?username=leafqycc&show_icons=true">
     </div>
   </div>
+  <div style="text-align: left; width: 100%;">
+    <img src="https://raw.githubusercontent.com/leafqycc/leafqycc/main/neuro-evil.gif" style="width:100%;">
   </div>
 </div>
+
 
 <!--
 **leafqycc/leafqycc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
