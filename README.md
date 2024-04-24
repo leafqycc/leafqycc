@@ -1,4 +1,4 @@
-## Hi👋 My name is leafqycc, and I am currently studying computer science and technology at Sichuan University
+## Hi👋 I am leafqycc, currently studying computer science and technology at Sichuan University
 
 ### About me: 
 
