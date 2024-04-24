@@ -2,10 +2,12 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: left;">
-    ### About me:
-    * A boy who loves history and technology
-    * I am currently working in Beijing
-    * Want to be a full-stack developer
+    <h3>About me:</h3>
+    <ul>
+      <li>A boy who loves history and technology</li>
+      <li>I am currently working in Beijing</li>
+      <li>Want to be a full-stack developer</li>
+    </ul>
   </div>
   <div style="text-align: right;">
     <img src="https://raw.githubusercontent.com/leafqycc/leafqycc/main/neuro-evil.gif" style="width:50%;">
