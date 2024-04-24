@@ -7,7 +7,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=leafqycc&show_icons=true">
 
-<img src="https://raw.githubusercontent.com/leafqycc/leafqycc/main/neuro-evil.gif" style="width:50%;">
+<img align="left" src="https://raw.githubusercontent.com/leafqycc/leafqycc/main/neuro-evil.gif" style="width:50%;">
 
 <!--
 **leafqycc/leafqycc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
