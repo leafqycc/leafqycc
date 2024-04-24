@@ -1,11 +1,12 @@
-## Hi👋 I am leafqycc, currently studying computer science and technology at Sichuan University
+## Hi👋 I am leafqycc
 
 ### About me: 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=leafqycc&show_icons=true">
 
 * A boy who loves history and technology
-* I am currently working in Beijing
+* studying CS at Sichuan University
+* currently interning in Beijing
 * Want to be a full-stack developer
 
 <!--
