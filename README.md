@@ -1,14 +1,13 @@
 ## Hi👋 I am leafqycc, currently studying computer science and technology at Sichuan University
 
 ### About me: 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=leafqycc&show_icons=true">
-
 * A boy who loves history and technology
 * I am currently working in Beijing
 * Want to be a full-stack developer
-<img src="https://raw.githubusercontent.com/leafqycc/leafqycc/main/neuro-evil.gif">
 
+<img src="https://github-readme-stats.vercel.app/api?username=leafqycc&show_icons=true">
+
+<img src="https://raw.githubusercontent.com/leafqycc/leafqycc/main/neuro-evil.gif">
 
 <!--
 **leafqycc/leafqycc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
