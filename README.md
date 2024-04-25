@@ -6,7 +6,6 @@
 
 * A boy who loves history and technology
 * studying CS at Sichuan University
-* currently interning in Beijing
 * Want to be a full-stack developer
 
 <!--
